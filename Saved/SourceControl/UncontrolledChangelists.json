@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/FirstPerson/Blueprints/WDP_UI.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/FirstPerson/Blueprints/WDP_EndScreen.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/FirstPerson/Blueprints/BP_Riffle.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/VH/1W68MTH0EJ46GQ5M76A93Q.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/P0/SA2M0FNY6BMDX5W86E8JSW.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/TC/IWDYFJ5B3X2DMWEZ9MTVZP.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/EQ/7HICJR0AUZ1FG9YNPWY7MG.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/K1/ZWS0XVH11SADD801OO0V56.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/Target/SM_Target_SM_Target/SM_Target_GeometryCollection.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/MW/O3411ZRKU7YJBPP497DV5N.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/14/3RWJCX8RXAM3R3S4922WYD.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/VP/MWW2M0MRAET80IY8V4ST4X.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/AZ/MM1T4GV9JKZAGJLL7QQ3QU.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7C/01QK17TBZV4GJH5QUF0YPT.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/B1/Z8Q65PARP5SC4CR4LU1ZDZ.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VA/39NX1J8YJVVSVPWU3OCUR6.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset",
+				"D:/Project/Unreal Project/FPS Game Unreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/JY/6Y8L6T9XVAH4KJX6720EBV.uasset"
+			]
+		}
+	]
+}
